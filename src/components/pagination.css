@@ -1,0 +1,12 @@
+.pageNumbers{
+    list-style: none;
+    display: flex;
+}
+
+.pagination li{
+    cursor: pointer;
+}
+.table-responsive{
+    width: 50%;
+    align-items: center;
+}
